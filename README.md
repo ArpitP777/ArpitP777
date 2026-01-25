@@ -12,5 +12,4 @@
 - Embedded Systems  
 - Hardware-Software  
 
-> <span style="color: #39FF14;">⚡ Think you own Verilog? Prove it.</span>
 ![Punchline](https://img.shields.io/badge/Think%20you%20own%20Verilog%3F-Prove%20it-blue?style=for-the-badge)
