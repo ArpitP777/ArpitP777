@@ -2,15 +2,14 @@
   <img src="./motherBoard.gif" width="800"/>
 </p>
 
-## 👨‍💻 About Me
+> ## <span style="color: #0A66C2;"> 👨‍💻 About Me </span>
 
-- VLSI Design  
-- ASIC Development  
-- Verilog RTL  
-- SystemVerilog  
-- Digital Logic  
+- ASIC Dsign
+- Verilog
+- SystemVerilog
+- VLSI
 - RTL Architecture  
 - Embedded Systems  
 - Hardware-Software  
 
-> <span style="color: #00ff00;">⚡ Think you own Verilog? Prove it.</span>
+> <span style="color: #39FF14;">⚡ Think you own Verilog? Prove it.</span>
