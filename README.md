@@ -6,8 +6,10 @@
 
 - Verilog
 - SystemVerilog
-- VLSI
+- RTL Design
 - ASIC Design
-- Hardware-Software  
+- VLSI
+- Microcontrollers & Microprocessors
+- Web Development
 
 ![Punchline](https://img.shields.io/badge/Think%20you%20own%20Verilog%3F-Prove%20it-blue?style=for-the-badge)
