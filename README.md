@@ -12,4 +12,4 @@
 - Microcontrollers & Microprocessors
 - Web Development
 
-![Punchline](https://img.shields.io/badge/Think%20you%20own%20Verilog%3F-Prove%20it-blue?style=for-the-badge)
+![Punchline](https://img.shields.io/badge/3F-ECE-blue?style=for-the-badge)
