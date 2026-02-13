@@ -11,6 +11,8 @@
 - VLSI
 - Microcontrollers & Microprocessors
 - C++
+- Data Structures & Algorithms
+- Competitive Programming
 - Web Development
 
 ![L](https://img.shields.io/badge/ECE-blue?style=for-the-badge)
