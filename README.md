@@ -13,4 +13,4 @@
 - C++
 - Web Development
 
-![Punchline](https://img.shields.io/badge/ECE-blue?style=for-the-badge)
+![L](https://img.shields.io/badge/ECE-blue?style=for-the-badge)
