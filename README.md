@@ -11,6 +11,5 @@
 - VLSI
 - Microcontrollers & Microprocessors
 - C++
-- Data Structures & Algorithms
 
 ![L](https://img.shields.io/badge/ECE-blue?style=for-the-badge)
