@@ -27,11 +27,8 @@ I’m a third-year Electronics and Communication Engineering student passionate 
   <img src="https://img.shields.io/badge/Digital%20Design-0F766E?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white" />
-  <img src="https://img.shields.io/badge/EDA%20Tools-4B5563?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardware%20Development-F59E0B?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
