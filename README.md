@@ -19,41 +19,20 @@ I’m a third-year Electronics and Communication Engineering student passionate 
 
 ## 🧰 Skills & Tools
 
-### Hardware Design & Verification
-
 <p>
   <img src="https://img.shields.io/badge/Verilog-1E4D7B?style=for-the-badge&logo=verilog&logoColor=white" />
   <img src="https://img.shields.io/badge/SystemVerilog-8B1E3F?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/RTL%20Design-1F6FEB?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/RTL%20Verification-6F42C1?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Digital%20Design-0F766E?style=for-the-badge&logoColor=white" />
-</p>
-
-### Programming & Platforms
-
-<p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-</p>
-
-### EDA & Development Tools
-
-<p>
   <img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white" />
   <img src="https://img.shields.io/badge/EDA%20Tools-4B5563?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardware%20Development-F59E0B?style=for-the-badge&logoColor=white" />
 </p>
-
----
-
-## 📌 Featured Work
-
-- **Synchronous FIFO (64×8)** — RTL design for buffered data transfer
-- **SPI Master (8-bit)** — Serial peripheral communication interface
-- **UART (8-bit)** — Asynchronous serial communication module
-- **FSM-Based Vending Machine** — Finite-state-machine based RTL implementation
 
 ---
 
