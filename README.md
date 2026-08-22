@@ -8,7 +8,7 @@
 
 ### ECE Undergraduate @ BIT Mesra | Aspiring RTL Design & Verification Engineer
 
-I’m a third-year Electronics and Communication Engineering student passionate about **VLSI, ASIC design verification, and digital system design**. I build hands-on projects using Verilog and SystemVerilog from synchronous FIFOs and communication protocols to FSM-based designs.
+I’m a third-year Electronics and Communication Engineering student passionate about **VLSI, ASIC design verification, and digital system design**. I build hands-on projects using Verilog and SystemVerilog.
 
 -  Currently strengthening my RTL design and verification skills
 -  Exploring ASIC design flow, FPGA prototyping, and semiconductor technologies
@@ -33,4 +33,3 @@ I’m a third-year Electronics and Communication Engineering student passionate 
 
 ---
 
-> *Building reliable digital systems, one module at a time.*
