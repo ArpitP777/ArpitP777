@@ -24,11 +24,10 @@ I’m a third-year Electronics and Communication Engineering student passionate 
   <img src="https://img.shields.io/badge/SystemVerilog-8B1E3F?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/RTL%20Design-1F6FEB?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/RTL%20Verification-6F42C1?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Digital%20Design-0F766E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge&logo=xilinx&logoColor=white" />
 </p>
 
 ---
