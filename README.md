@@ -11,8 +11,8 @@
 I’m a third-year Electronics and Communication Engineering student passionate about **VLSI, ASIC design verification, and digital system design**. I build hands-on projects using Verilog and SystemVerilog.
 
 -  Currently strengthening my RTL design and verification skills
--  Exploring ASIC design flow, FPGA prototyping, and semiconductor technologies
--  Interested in digital design, verification, embedded systems, and hardware–software integration
+-  Exploring ASIC design flow and semiconductor technologies
+-  Interested in digital design, verification and hardware–software integration
 -  Open to learning, collaboration, and VLSI/RTL internship opportunities
 
 ---
